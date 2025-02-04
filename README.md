@@ -1,19 +1,19 @@
-# Hello, I’m Gökçe Akarsu 👋
+## Hello, I’m Gökçe Akarsu 👋
 
-## Skills Gained from the 1-Year Kodlasam Data Analytics Training  
+### Skills Gained from the 1-Year Kodlasam Data Analytics Training  
 
-### 📌 Database and Querying Tools  
+#### 📌 Database and Querying Tools  
 - SQL  
 
-### 🖥️ Programming Languages  
+#### 🖥️ Programming Languages  
 - Python  
 
-### 📊 Data Visualization  
+#### 📊 Data Visualization  
 - Power BI  
 - Microsoft Excel  
 - Python (Matplotlib & Seaborn)  
 
-### 📈 Data Analysis  
+#### 📈 Data Analysis  
 - SQL  
 - Python (NumPy & Pandas)  
 - Microsoft Excel  
