@@ -1,19 +1,6 @@
-## Hello, I’m Gökçe Akarsu 👋
+## 👋 Hi, I'm Gökçe Akarsu  
 
-### Skills Gained from the 1-Year Kodlasam Data Analytics Training  
-
-#### 📌 Database and Querying Tools  
-- SQL  
-
-#### 🖥️ Programming Languages  
-- Python  
-
-#### 📊 Data Visualization  
-- Power BI  
-- Microsoft Excel  
-- Python (Matplotlib & Seaborn)  
-
-#### 📈 Data Analysis  
-- SQL  
-- Python (NumPy & Pandas)  
-- Microsoft Excel  
+🔎 **Passionate about Data Analytics**  
+📊 **Skills:** `Excel` | `SQL` | `Python` | `Power BI`  
+💡 **Collaboration Areas:** SQL & Power BI Visualization  
+📩 **Contact:** [gokce.akar@gmail.com](mailto:gokce.akar@gmail.com)  
